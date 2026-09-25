@@ -12,6 +12,13 @@ A portfolio-grade fleet and rental operations application inspired by real-world
 ## Why this project matters
 This project demonstrates the type of end-to-end product work expected from a working student or junior software developer: understanding a business process, modelling it in a database, exposing reliable REST endpoints, connecting a frontend, validating user input, testing critical flows, and automating checks in CI.
 
+
+## Output preview
+
+![Vehicle Rental Management dashboard](assets/vehicle-rental-dashboard.svg)
+
+The screenshot uses demo data to show the fleet dashboard, active/reserved bookings, rental revenue and vehicle information.
+
 ## Architecture
 ```
 React/TypeScript UI  ->  FastAPI REST API  ->  SQLAlchemy  ->  PostgreSQL
