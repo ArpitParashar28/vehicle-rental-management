@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980">
+<rect width="1440" height="980" fill="#f5f7fb"/>
+<style>.t{font-family:Arial,sans-serif;fill:#172033}.m{font-family:Arial,sans-serif;fill:#64748b}.b{font-weight:700}.card{fill:#fff;stroke:#eef1f5}.line{stroke:#e5e7eb}</style>
+<text x="100" y="65" class="m b" font-size="16">PORTFOLIO PROJECT · FASTAPI + REACT + POSTGRESQL</text>
+<text x="100" y="120" class="t b" font-size="42">Vehicle Rental Management</text>
+<text x="100" y="155" class="m" font-size="18">Fleet operations dashboard for rental processes.</text>
+<rect x="1100" y="60" width="235" height="48" rx="10" class="card"/><text x="1120" y="91" class="m" font-size="16">REST API · CI/CD · Docker</text>
+<rect x="100" y="200" width="285" height="125" rx="16" class="card"/><text x="120" y="238" class="m" font-size="17">Vehicles</text><text x="120" y="292" class="t b" font-size="34">3</text><rect x="399" y="200" width="285" height="125" rx="16" class="card"/><text x="419" y="238" class="m" font-size="17">Active bookings</text><text x="419" y="292" class="t b" font-size="34">1</text><rect x="698" y="200" width="285" height="125" rx="16" class="card"/><text x="718" y="238" class="m" font-size="17">Open damage reports</text><text x="718" y="292" class="t b" font-size="34">1</text><rect x="997" y="200" width="285" height="125" rx="16" class="card"/><text x="1017" y="238" class="m" font-size="17">Revenue</text><text x="1017" y="292" class="t b" font-size="34">€762</text>
+<rect x="100" y="355" width="1240" height="270" rx="16" class="card"/><text x="122" y="397" class="t b" font-size="24">Fleet</text>
+<text x="122" y="440" class="m b" font-size="13">REGISTRATION</text><text x="342" y="440" class="m b" font-size="13">MODEL</text><text x="722" y="440" class="m b" font-size="13">CATEGORY</text><text x="1022" y="440" class="m b" font-size="13">DAILY RATE</text>
+<line x1="120" y1="455" x2="1320" y2="455" class="line"/>
+<text x="122" y="493" class="t" font-size="16">B-MB 1001</text><text x="342" y="493" class="t" font-size="16">Mercedes-Benz Vito</text><text x="722" y="493" class="t" font-size="16">Van</text><text x="1022" y="493" class="t" font-size="16">€89.00</text>
+<line x1="120" y1="510" x2="1320" y2="510" class="line"/>
+<text x="122" y="548" class="t" font-size="16">B-MB 1002</text><text x="342" y="548" class="t" font-size="16">Mercedes-Benz Sprinter</text><text x="722" y="548" class="t" font-size="16">Transporter</text><text x="1022" y="548" class="t" font-size="16">€119.00</text>
+<line x1="120" y1="565" x2="1320" y2="565" class="line"/>
+<text x="122" y="603" class="t" font-size="16">B-EQ 1003</text><text x="342" y="603" class="t" font-size="16">Mercedes-Benz eVito</text><text x="722" y="603" class="t" font-size="16">Electric Van</text><text x="1022" y="603" class="t" font-size="16">€99.00</text>
+<rect x="100" y="650" width="1240" height="270" rx="16" class="card"/><text x="122" y="692" class="t b" font-size="24">Bookings</text>
+<text x="122" y="735" class="m b" font-size="13">ID</text><text x="222" y="735" class="m b" font-size="13">VEHICLE</text><text x="482" y="735" class="m b" font-size="13">CUSTOMER</text><text x="702" y="735" class="m b" font-size="13">DATES</text><text x="922" y="735" class="m b" font-size="13">STATUS</text><text x="1082" y="735" class="m b" font-size="13">TOTAL</text>
+<line x1="120" y1="750" x2="1320" y2="750" class="line"/>
+<text x="122" y="788" class="t" font-size="16">#1042</text><text x="222" y="788" class="t" font-size="16">Vito · B-MB 1001</text><text x="482" y="788" class="t" font-size="16">Anna Weber</text><text x="702" y="788" class="t" font-size="16">25 Sep → 28 Sep</text><text x="922" y="788" class="t" font-size="16">active</text><text x="1082" y="788" class="t" font-size="16">€356.00</text>
+<line x1="120" y1="805" x2="1320" y2="805" class="line"/>
+<text x="122" y="843" class="t" font-size="16">#1043</text><text x="222" y="843" class="t" font-size="16">eVito · B-EQ 1003</text><text x="482" y="843" class="t" font-size="16">Daniel Klein</text><text x="702" y="843" class="t" font-size="16">2 Oct → 4 Oct</text><text x="922" y="843" class="t" font-size="16">reserved</text><text x="1082" y="843" class="t" font-size="16">€297.00</text>
+<line x1="120" y1="860" x2="1320" y2="860" class="line"/>
+<text x="122" y="898" class="t" font-size="16">#1038</text><text x="222" y="898" class="t" font-size="16">Sprinter · B-MB 1002</text><text x="482" y="898" class="t" font-size="16">Lea Fischer</text><text x="702" y="898" class="t" font-size="16">20 Sep → 20 Sep</text><text x="922" y="898" class="t" font-size="16">completed</text><text x="1082" y="898" class="t" font-size="16">€119.00</text>
+<text x="100" y="955" class="m" font-size="14">Demo data for portfolio presentation · Arpit Parashar</text></svg>
